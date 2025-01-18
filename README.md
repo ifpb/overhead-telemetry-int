@@ -14,6 +14,7 @@ O script run.sh automatiza a execução dos scripts send.py e receive.py, garant
 
 #### Execução
 Torne o script executável e inicie o experimento:
+
 '''
 chmod +x run.sh
 ./run.sh
