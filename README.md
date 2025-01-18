@@ -12,14 +12,6 @@ O script run.sh automatiza a execução dos scripts send.py e receive.py, garant
 3. Reproduz o vídeo DASH no Host-2 com o VLC.
 4. Gera tráfego adicional no Host-3 com o sinusoid.py.
 
-#### Execução
-Torne o script executável e inicie o experimento:
-
-'''
-chmod +x run.sh
-./run.sh
-'''
-
 ### send.py
 O script send.py é responsável por enviar pacotes INT do Host-1 para o Host-2, simulando tráfego de rede com metadados telemétricos gerados pelos switches programáveis.
 Inicialmente, gera pacotes com metadados INT, configurados no código P4 dos switches. Os pacotes são enviados para o Host-2 em intervalos que podem ser ajustados diretamente no código.
