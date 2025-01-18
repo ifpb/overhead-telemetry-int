@@ -14,9 +14,11 @@ O script run.sh automatiza a execução dos scripts send.py e receive.py, garant
 
 ### send.py
 O script send.py é responsável por enviar pacotes INT do Host-1 para o Host-2, simulando tráfego de rede com metadados telemétricos gerados pelos switches programáveis.
+
 Inicialmente, gera pacotes com metadados INT, configurados no código P4 dos switches. Os pacotes são enviados para o Host-2 em intervalos que podem ser ajustados diretamente no código.
 
 ### receive.py
 O script receive.py captura, processa e armazena os pacotes INT recebidos no Host-2, extraindo informações importantes para análise.
+
 Após o recebimento dos pacotes INT enviados pelo Host-1, os pacotes são processados para obter o cabeçalho do pacote juntamente com seus respectivos valores. Esses dados são salvos para posterior análise.
 
