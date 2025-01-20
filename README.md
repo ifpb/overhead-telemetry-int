@@ -1,5 +1,5 @@
 # Repositório [overhead-telemetry-int]
-Este repositório tem por objetivo apresentar a equipe e compartilhar os códigos utilizados no experimento descrito no trabalho submetido no SBRC (2025), denomenado de "**Explorando o overhead de telemetria em redes programáveis na estimativa de QoS com aprendizado de máquina**"
+Este repositório tem por objetivo apresentar a equipe e compartilhar os códigos utilizados no experimento descrito no trabalho submetido no SBRC (2025), cujo o título é "**Explorando o overhead de telemetria em redes programáveis na estimativa de QoS com aprendizado de máquina**"
 
 # Indice
 1. [Introdução](#1-introdução)
