@@ -15,7 +15,7 @@ Sob coordenação do prof. Dr. Leandro Almeida, o projeto tem como objetivo comp
 
 Esta pesquisa contou com o apoio do programa de fomento à pesquisa "**Interconecta**", do Instituto Federal da Paraíba (IFPB).
 
-O desenvolvimento do projeto foi realizado por pesquisadores do Laboratório de Redes Inteligentes (LARIN) do IFPB.
+O desenvolvimento do projeto foi realizado por pesquisadores do Laboratório de Redes Inteligentes (LARIN) do IFPB e do LERIS (ver sigla) da UFSCar.
 
 A equipe responsável por este trabalho é composta por:
 - **Prof. Dr. Leandro Almeida**, IFPB, ([orcid](https://orcid.org/0000-0003-4342-3030))
